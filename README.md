@@ -1,4 +1,4 @@
-![logo](https://github.com/KAIFNADAF/KAIFNADAF/blob/main/png_20230530_231320_0000.png)
+![logo](https://github.com/KAIFNADAF/KAIFNADAF/blob/main/IMG_20230530_232841.png)
 <h1 align="center">Hi 👋, I'm Kaif Nadaf!</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right"  width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
