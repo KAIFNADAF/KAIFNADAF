@@ -1,5 +1,5 @@
 ![logo](https://github.com/KAIFNADAF/KAIFNADAF/blob/main/IMG_20230530_232841.png)
-<h1 align="center">Hi 👋, I'm Kaif Nadaf</h1>
+<h1 align="center">Hi 👋, I'm Kaif</h1>
 <h3 align="center">Machine Learning Engineer | Data Science MSc | Building AI & Data Products</h3>
 
 <p align="center">
