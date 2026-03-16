@@ -25,34 +25,6 @@ I enjoy building practical machine learning systems, data pipelines, and AI-driv
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages & Data Tools**
-
-- Python (Pandas, NumPy, scikit-learn)
-- SQL
-- Spark / SparkML
-
-**Machine Learning**
-
-- Regression & Classification
-- Feature Engineering
-- Model Evaluation
-- Recommender Systems
-
-**Data Visualisation**
-
-- Power BI
-- Tableau
-- Excel (Advanced)
-
-**Tools & Platforms**
-
-- Git
-- Jupyter
-- Basic AWS (EC2)
-
----
 ### ⚡ Fun Fact
 
 Outside tech, I’m involved in **theatre and performance**, which helps me communicate complex ideas clearly and work creatively with teams.
