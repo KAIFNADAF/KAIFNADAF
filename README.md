@@ -1,6 +1,6 @@
 ![logo](https://github.com/KAIFNADAF/KAIFNADAF/blob/main/IMG_20230530_232841.png)
 <h1 align="center">Hi 👋, I'm Kaif</h1>
-<h3 align="center">Data Science MSc | Building AI & Data Products</h3>
+<h3 align="center">MSc Graduate | Building AI & Data Products</h3>
 
 <p align="center">
 MSc Data Science & Statistical Learning graduate from the University of Limerick (First Class Honours).  
