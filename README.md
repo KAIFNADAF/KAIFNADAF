@@ -13,8 +13,6 @@ I enjoy building practical machine learning systems, data pipelines, and AI-driv
 <img src="https://komarev.com/ghpvc/?username=kaifnadaf&label=Profile%20views&color=0e75b6&style=flat" alt="kaifnadaf" />
 </p>
 
----
-
 ### 🚀 About Me
 
 - 🎓 MSc in **Data Science & Statistical Learning – University of Limerick (First Class Honours)**
@@ -22,8 +20,6 @@ I enjoy building practical machine learning systems, data pipelines, and AI-driv
 - 📊 Experienced in **building ML models, dashboards, and data pipelines**
 - 🧠 Passionate about turning **data into insights and intelligent systems**
 - 🤝 Enjoy collaborating with teams to build meaningful technology
-
----
 
 ### ⚡ Fun Fact
 
