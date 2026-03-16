@@ -1,26 +1,61 @@
 ![logo](https://github.com/KAIFNADAF/KAIFNADAF/blob/main/IMG_20230530_232841.png)
-<h1 align="center">Hi 👋, I'm Kaif Nadaf!</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"  width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifnadaf&label=Profile%20views&color=0e75b6&style=flat" alt="kaifnadaf" /> </p>
+<h1 align="center">Hi 👋, I'm Kaif Nadaf</h1>
+<h3 align="center">Machine Learning Engineer | Data Science MSc | Building AI & Data Products</h3>
 
--🔭 I'm a ML Engineer. I have a strong belief that data is everything. 
+<p align="center">
+MSc Data Science & Statistical Learning graduate from the University of Limerick (First Class Honours).  
+I enjoy building practical machine learning systems, data pipelines, and AI-driven applications that turn raw data into real insights.
+</p>
 
--🎓 I have done my graduation in Bsc Data Science. I am more intrigued towards Data analysis and AI.
+<img align="right" width="420" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
--📊 Well versed in Tableau, Power BI and Python🐍.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=kaifnadaf&label=Profile%20views&color=0e75b6&style=flat" alt="kaifnadaf" />
+</p>
 
--🤝  My Strength lies in working with team to upscale productivity.
+---
 
--💬 I am curious to learn new things and work with different people to stay up-to-date about the trends.
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://appopener.com/web/twc2ph19l](https://appopener.com/web/twc2ph19l)
+- 🎓 MSc in **Data Science & Statistical Learning – University of Limerick (First Class Honours)**
+- 🤖 Interested in **Machine Learning Engineering, AI systems, and Data Products**
+- 📊 Experienced in **building ML models, dashboards, and data pipelines**
+- 🧠 Passionate about turning **data into insights and intelligent systems**
+- 🤝 Enjoy collaborating with teams to build meaningful technology
 
-- 📫 How to reach me **mohdkaifnadaf@gmail.com**
+---
 
-- 📄 Know more about me (My Resume) [https://appopener.com/web/xfqyp9u6l](https://appopener.com/web/xfqyp9u6l)
+### 🛠 Tech Stack
 
-- ⚡ Fun fact **I am Funny😉 and curious to learn new things.😊**
+**Languages & Data Tools**
+
+- Python (Pandas, NumPy, scikit-learn)
+- SQL
+- Spark / SparkML
+
+**Machine Learning**
+
+- Regression & Classification
+- Feature Engineering
+- Model Evaluation
+- Recommender Systems
+
+**Data Visualisation**
+
+- Power BI
+- Tableau
+- Excel (Advanced)
+
+**Tools & Platforms**
+
+- Git
+- Jupyter
+- Basic AWS (EC2)
+
+---
+### ⚡ Fun Fact
+
+Outside tech, I’m involved in **theatre and performance**, which helps me communicate complex ideas clearly and work creatively with teams.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
