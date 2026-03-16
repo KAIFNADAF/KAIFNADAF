@@ -1,4 +1,4 @@
-![logo](https://github.com/KAIFNADAF/KAIFNADAF/blob/main/45de65d0-f385-44ac-8ce0-f89035467600.png)
+![logo](https://github.com/KAIFNADAF/KAIFNADAF/blob/main/2c9faadf-a7b7-4d15-b691-42755f931b97.png)
 <h1 align="center">Hi 👋, I'm Kaif</h1>
 <h3 align="center">MSc Graduate | Building AI & Data Products</h3>
 
